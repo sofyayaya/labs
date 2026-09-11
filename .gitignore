@@ -1,0 +1,10 @@
+build/
+lab_*/build/
+*.o
+*.obj
+*.exe
+*.out
+a.out
+*.swp
+*~
+.DS_Store
